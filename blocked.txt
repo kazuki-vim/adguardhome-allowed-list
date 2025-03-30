@@ -1,1 +1,2 @@
 ||blogger.googleusercontent.com^
+||*$image,filename=.gif
